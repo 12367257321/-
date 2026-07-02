@@ -1,0 +1,5 @@
+# 电网异常窃电智能识别系统 (Oracle + Ollama + RAG)
+Flask>=3.0.0
+oracledb>=2.0.0
+ollama>=0.4.0
+chromadb>=0.4.0
